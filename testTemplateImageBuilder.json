@@ -84,8 +84,41 @@
                     "baseosimg": "ubuntu1804"
                 },
                 "replicationRegions": [
+                    "eastus",
+                    "eastus2",
+                    "southcentralus",
                     "westus2",
-                    "eastus"
+                    "westus3",
+                    "australiaeast",
+                    "southeastasia",
+                    "northeurope",
+                    "swedencentral",
+                    "uksouth",
+                    "westeurope",
+                    "centralus",
+                    "southafricanorth",
+                    "centralindia",
+                    "eastasia",
+                    "japaneast",
+                    "koreacentral",
+                    "canadacentral",
+                    "francecentral",
+                    "germanywestcentral",
+                    "norwayeast",
+                    "polandcentral",
+                    "switzerlandnorth",
+                    "uaenorth",
+                    "brazilsouth",
+                    "centraluseuap",
+                    "eastus2euap",
+                    "qatarcentral",
+                    "centralusstage",
+                    "eastusstage",
+                    "eastus2stage",
+                    "northcentralusstage",
+                    "southcentralusstage",
+                    "westusstage",
+                    "westus2stage"
                 ]
             }
         ]
