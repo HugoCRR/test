@@ -112,13 +112,18 @@
                     "centraluseuap",
                     "eastus2euap",
                     "qatarcentral",
-                    "centralusstage",
-                    "eastusstage",
-                    "eastus2stage",
-                    "northcentralusstage",
-                    "southcentralusstage",
-                    "westusstage",
-                    "westus2stage"
+                    "northcentralus",
+                    "westus",
+                    "westcentralus",
+                    "australiacentral",
+                    "australiacentral2",
+                    "australiasoutheast",
+                    "japanwest",
+                    "koreasouth",
+                    "southindia",
+                    "westindia",
+                    "canadaeast",
+                    "ukwest"
                 ]
             }
         ]
