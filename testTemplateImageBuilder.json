@@ -92,7 +92,23 @@
                     "southcentralus",
                     "westus3",
                     "australiaeast",
-                    "southeastasia"
+                    "southeastasia",
+                    "northeurope",
+                    "swedencentral",
+                    "uksouth",
+                    "westeurope",
+                    "centralus",
+                    "southafricanorth",
+                    "centralindia",
+                    "eastasia",
+                    "japaneast",            
+                    "koreacentral",         
+                    "canadacentral",        
+                    "francecentral",        
+                    "germanywestcentral",   
+                    "norwayeast",           
+                    "polandcentral",        
+                    "switzerlandnorth"     
                 ]
             }
         ]
