@@ -108,7 +108,21 @@
                     "germanywestcentral",   
                     "norwayeast",           
                     "polandcentral",        
-                    "switzerlandnorth"     
+                    "switzerlandnorth",
+                    "uaenorth",             
+                    "brazilsouth",
+                    "qatarcentral",
+                    "northcentralus",
+                    "westus",
+                    "westcentralus",
+                    "australiacentral",
+                    "australiasoutheast",
+                    "japanwest",
+                    "koreasouth",
+                    "southindia",           
+                    "westindia",            
+                    "canadaeast",           
+                    "ukwest"       
                 ]
             }
         ]
